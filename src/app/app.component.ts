@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  name = 'nathan'; //data binding in action, this is how we can call dynamic data types in html code
+
 }
